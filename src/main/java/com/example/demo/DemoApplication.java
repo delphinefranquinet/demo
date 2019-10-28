@@ -14,13 +14,16 @@ public class DemoApplication {
 
         boolean jaipasenvie2travailler = true;
         boolean jenesuispasfatiguee = false;
+        int c = 0;
 
         if (jaipasenvie2travailler == jenesuispasfatiguee ){
 
             while (true){
-
+                c = c + 2;
             }
 
+        }else{
+            c = c - 1;
 
         }
     }

@@ -16,7 +16,7 @@ public class DemoApplication {
         boolean jenesuispasfatiguee = false;
         int c = 0;
 
-        if (jaipasenvie2travailler == jenesuispasfatiguee ){
+        if (jaipasenvie2travailler == true && jenesuispasfatiguee == true ){
 
             while (true){
                 c = c + 2;

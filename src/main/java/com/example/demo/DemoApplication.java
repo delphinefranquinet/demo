@@ -10,4 +10,20 @@ public class DemoApplication {
         SpringApplication.run(DemoApplication.class, args);
     }
 
+    public void a (){
+
+        boolean jaipasenvie2travailler = true;
+        boolean jenesuispasfatiguee = false;
+
+        if (jaipasenvie2travailler == jenesuispasfatiguee ){
+
+            while (true){
+
+            }
+
+
+        }
+    }
+
+
 }
